@@ -13,6 +13,7 @@
     # 20172121
   ?>
   <head> 
+    
   <title><?php echo $name . " " . $id ; ?></title>
     <style> 
       .header {

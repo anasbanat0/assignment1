@@ -2,11 +2,13 @@
   # Anas Ali Banat
   # 20172121
 ?>
+
 <!DOCTYPE html>
 <?php
   $name = "Anas Ali Banat";
   $id = "20172121";
 ?>
+
 <html lang="en">
   <?php
     # Anas Ali Banat
